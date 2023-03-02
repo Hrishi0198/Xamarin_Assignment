@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{364BADAC-63AA-44C0-A580-A9F32C03BBC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Android PreferredExecutionTarget="Android.Pixel_4_API_5.7in" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp/SampleApp/OnClass/StylePage.xaml">
+    <Files>
+      <File FileName="SampleApp/SampleApp/MainPage.xaml.cs" />
+      <File FileName="SampleApp/SampleApp/MainPage.xaml" />
+      <File FileName="SampleApp/SampleApp/LoginPage.xaml" Line="17" Column="27" />
+      <File FileName="SampleApp/SampleApp/LoginPage.xaml.cs" Line="38" Column="10" />
+      <File FileName="SampleApp/SampleApp/RegisterPage.xaml" />
+      <File FileName="SampleApp/SampleApp/RegisterPage.xaml.cs" />
+      <File FileName="SampleApp/SampleApp/App.xaml.cs" Line="13" Column="47" />
+      <File FileName="SampleApp/SampleApp/OnClass/ListViewDemo.xaml" Line="10" Column="42" />
+      <File FileName="SampleApp/SampleApp/OnClass/DetailsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SampleApp/SampleApp/OnClass/StylePage.xaml" Line="11" Column="57" />
+      <File FileName="SampleApp/SampleApp/OnClass/StylePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SampleApp/SampleApp/App.xaml" Line="7" Column="317" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleApp" expanded="True">
+            <Node name="SampleApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Home.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

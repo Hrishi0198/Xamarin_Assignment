@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SampleApp.Home">
+        <ContentPage.Content>
+        <Label FontAttributes="Bold"
+               FontSize="Medium"
+               VerticalOptions="Center"
+               HorizontalOptions="Center">
+            Welcome to the sample application</Label>
+    </ContentPage.Content>
+</ContentPage>
+
