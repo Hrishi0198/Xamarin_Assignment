@@ -13,5 +13,21 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="SQLite" Version="3.13.0" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="7.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Day7Assignment\" />
+    <None Remove="Day9Assignment\" />
+    <None Remove="SQLite" />
+    <None Remove="Microsoft.Data.Sqlite.Core" />
+    <None Remove="Day7Assignment\ViewModels\" />
+    <None Remove="Day7Assignment\Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Day7Assignment\" />
+    <Folder Include="Day9Assignment\" />
+    <Folder Include="Day7Assignment\ViewModels\" />
+    <Folder Include="Day7Assignment\Views\" />
   </ItemGroup>
 </Project>
